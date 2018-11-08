@@ -20,6 +20,7 @@ def last_element(array)
   return array[-1]
 end
 
+<<<<<<< HEAD
 def first_element_with_array_methods(first_country)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   first_country = south_east_asia.first
@@ -34,3 +35,5 @@ def length_of_array(length_array)
   programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
   length_array = programming_languages.length
 end
+=======
+>>>>>>> 7b552e777b6d73fbbebfd3b04ee19f00d125a302
